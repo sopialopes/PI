@@ -5,7 +5,7 @@
 #include <LiquidCrystal_I2C.h>
 
 // Define o endereço do LCD como 0x27 para um display de 16 caracteres e 2 linhas
-LiquidCrystal_I2C lcd(0x27, 16, 2);
+LiquidCrystal_I2C lcd(0x27, 20, 4);  
 
 int linha[4] = {4, 5, 6, 7};
 int coluna[4] = {8, 9, 10, 11};
