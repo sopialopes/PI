@@ -1,3 +1,6 @@
+//FUNCIONANDO NORMAL NO TINKERAD
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
