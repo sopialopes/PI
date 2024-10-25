@@ -1,4 +1,5 @@
 //TESTE INIVIAL DO HORARIO, FUNCIONANDO NO TINKERCAD
+//FUNCIONA NA PLACA
 
 #include <Wire.h>  
 #include <LiquidCrystal_I2C.h>  
